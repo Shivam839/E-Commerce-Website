@@ -1,4 +1,9 @@
 # E-Commerce-Website
+This project is choosen by me because I find it very usefull for today market, where maximum of the people choose to shop from  website or application..
+this project help many seller to reach thier product through online
+
+In this project I mainly use HTMl, CSS and JavaScript
+
 This project is a demo of Ecoomerce website
 E commerce website has  6 secction with different content
 All six section has given below--
@@ -14,4 +19,5 @@ About Section is all about us, our website, our features, our next step,
 Contact section is a interface between customer and our staff which are available for 24/7 to help the user
 6-Cart
 Cart section store the product which customer select from our shop section with thier prices
-
+Repository Link---
+https://github.com/Shivam839/E-Commerce-Website/tree/main
